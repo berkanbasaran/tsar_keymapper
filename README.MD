@@ -1,7 +1,7 @@
 # 🎮 TSAR's Keymapper for RedM
 
-[![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-yellow)](https://github.com/your-repo)
-[![Game](https://img.shields.io/badge/Game-RedM-red)](https://redm.gg/)
+[![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-yellow)](https://github.com/berkanbasaran/tsar_keymapper)
+[![Game](https://img.shields.io/badge/Game-RedM-red)](https://redm.net/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## ⚠️ Important Notice
